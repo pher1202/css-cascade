@@ -2,3 +2,16 @@ body {
    background-color: #E6E6FA;
    color: #191970;
 }
+
+#my-p-id {
+    background-color: #FFFFFF;
+}
+
+
+p {
+    background-color: #AEAED4;
+}
+
+main p{
+    background-color: inherit;
+}
